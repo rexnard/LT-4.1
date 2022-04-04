@@ -8,27 +8,27 @@
             font-family: 'Beau Rivage', cursive;
             }
             body{
-             background-image: url(background.jpg.crdownload);
+             background-image: url(boat2.jpg);
              background-repeat: no-repeat;
              background-position: top center;
              background-size: cover;            
             }
             #wrapper{
-             width: 1020px;
-             min-height: 20px;
+             width: 900px;
+             min-height: 10px;
              margin: 0 auto;
              padding: 10pc;  
             }
             #content{
-             width: 130%;
-             min-height: 30px;
-             float: left;
-             position: center;
+             width: 120%;
+             min-height: 10px;
+             float: right;
+             position: relative;
              bottom: 300px;
              right: 200px;
-             font-size:60px;
-             color: wheat;
-             margin-top: 130px; 
+             font-size:50px;
+             color: black;
+             margin-top: 210px; 
             
             
             }</style>
